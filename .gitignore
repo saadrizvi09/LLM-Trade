@@ -1,19 +1,2 @@
-     venv/
-     ```
-
-2. **Unstage and remove the venv folder from Git tracking (but not delete locally):**
-   ```bash
-   git rm -r --cached venv
-   ```
-
-3. **Commit the change:**
-   ```bash
-   git commit -m "Remove venv directory from git tracking and add .gitignore"
-   ```
-
-4. **Push to GitHub:**
-   ```bash
-   git push
-   ```
-
-Would you like me to create the `.gitignore` file for you before you proceed?
+venv/
+.env/
