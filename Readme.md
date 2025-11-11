@@ -55,3 +55,6 @@ Capital: $10,000
 BTC Long:  $6,000 @ 5x leverage = $30,000 exposure
 ETH Long:  $2,000 @ 3x leverage = $6,000 exposure
 Cash:      $2,000 (20% reserve)
+
+
+Update: One month into the Alpha Arena competition, Deepseek's profit has fallen to just 2%
